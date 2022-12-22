@@ -6,6 +6,10 @@ public class HomePage {
 
     // nav manu
 
+    // more things for
+
+    //logo
+
 
 
 }
